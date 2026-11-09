@@ -1,4 +1,4 @@
-# Hi there, I'm [Sabar Santoso] 👋
+# Hi there, I'm Sabar Santoso 👋
 ### Aspiring Data Analyst & Web Developer
 
 ---
@@ -50,5 +50,5 @@ Hi there! 👋 I am an **Aspiring Data Analyst & Web Developer** passionate abou
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/username-anda](#)
-- 📧 **Email:** [email-anda@domain.com](#)
+- 💼 **LinkedIn:** linkedin.com/in/sabarsantoso2211
+- 📧 **Email:** santoso.sabar@gmail.com
